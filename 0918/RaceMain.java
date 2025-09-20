@@ -1,5 +1,7 @@
 package variable5;
 
+// 🎀 Main 클래스명도 의미있게 지어주셔서 좋습니다 👍
+// 전반적으로 클래스명 짓는 것도 성의있게 해주신 거 같아 아주 좋아요!
 public class RaceMain {
 
 	public static void main(String[] args) {

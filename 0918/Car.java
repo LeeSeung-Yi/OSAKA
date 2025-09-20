@@ -13,6 +13,7 @@ public class Car implements Vehicle {
 	        return speed;
 	    }
 
+		// 🎀: 출력 메시지가 친절해서 좋습니다 👍 단위까지 적어주셨네요.
 	    // move 메서드 구현 (이동)
 	    @Override
 	    public void move() {
