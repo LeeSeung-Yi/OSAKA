@@ -16,7 +16,12 @@ public class Book {
 	    private String author;
 	    private int price;
 	    
-	    
+	    /* 🎀
+	    * 완전 사소한 포인트이긴 한데! 기억해 두면 언젠가 도움이 될 거 같아 언급합니다.
+	    * 메서드 배치는
+	    * 일반 메서드(승이쨩이 새로 이름 붙여 만드는 메서드) - getter - setter - toString 순서로
+	    * 하는 경우가 많더라고요~ㅎㅎ
+	    */
 	    //2. set으로 정보 수정: 생성자
 		
 		public void setTitle(String title) {
